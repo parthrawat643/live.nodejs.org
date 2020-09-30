@@ -36,3 +36,6 @@ and don't forget to tell us which event it is for.
 
 Because Node.js Live is an event series for local communities we do not have travel
 assistance available :(
+The Node.js Foundation is kicking off a series of global events bringing together local Node.js developers around the world.
+
+Each event is different and tailored to the local community, varying in length and in some cases in partnership with local Node.js groups and user
